@@ -11,12 +11,20 @@
   "license": "ISC",
   "devDependencies": {
     "@types/three": "^0.137.0",
-    "three": "^0.138.1",
-    "ts-loader": "^9.2.6",
-    "typescript": "^4.5.5",
-    "webpack": "^5.69.1",
+    "three": "^0.138.3",
+    "ts-loader": "^9.2.7",
+    "typescript": "^4.6.2",
+    "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4",
     "webpack-merge": "^5.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndward01/PointerLock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johndward01/PointerLock/issues"
+  },
+  "homepage": "https://github.com/johndward01/PointerLock#readme"
 }
