@@ -18,4 +18,3 @@
 - `npm install typescript --save-dev` Install a local copy of TypeScript in the node_modules folder for use by the ts-loader
 - `npm install dat.gui --save-dev` Install Dat.GUI manually from its official repository
 - `npm install @types/dat.gui --save-dev` Install Dat.GUI Types manually from its official repository
-- Test
